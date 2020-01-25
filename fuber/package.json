@@ -1,0 +1,24 @@
+{
+  "name": "fuber",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "ejs": "^3.0.1",
+    "express": "^4.13.4",
+    "jade": "~1.11.0",
+    "leaflet": "^1.6.0",
+    "leaflet-routing-machine": "^3.2.12",
+    "leaflet-search": "^2.9.8",
+    "mongoose": "^4.4.20",
+    "morgan": "~1.6.1",
+    "serve-favicon": "~2.3.0"
+  },
+  "devDependencies": {
+    "debug": ">=2.6.9"
+  }
+}

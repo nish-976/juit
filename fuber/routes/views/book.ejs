@@ -1,0 +1,13 @@
+<%- include("header"); -%>
+<h1> <%= message %> </h1>
+<h4>
+<p> Nearest Hospital :- <%= nearestHospital%>  </p>
+<p> Cab ID :- <%= cabID %> </p>
+<p> Driver Name :- <%= driverName %> </p>
+<p> Current location Coordinates of Driver :- ( <%= location.lattitude %>
+  , <%= location.longitude %> )
+</p>
+<p> Distance between you and your driver :- <%= distance %> km </p>
+</h4>
+
+<%- include("footer"); -%>
