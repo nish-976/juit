@@ -1,0 +1,98 @@
+div {
+    margin-top: 20px;
+}
+
+h1 {
+    margin-right: 30px;
+    color: red;
+    text-align: center;
+}
+
+#university-name {
+    line-height: 1.2rem;
+}
+
+
+/*
+#logo {
+    margin-left: 180px;
+    height: 90px;
+}
+*/
+
+h2 {
+    margin-top: -30px;
+    margin-left: 1000px;
+    color: yellow;
+    font-style: italic;
+}
+
+.nava {
+    margin-top: 0px;
+    background-color: #cccccc;
+}
+
+.btn {
+    align-content: center;
+    margin: auto;
+}
+
+#card {
+    float: right;
+    margin-right: 120px;
+    margin-top: -620px;
+}
+
+#basicExampleNav {
+    text-align: right;
+    margin-left: 950px;
+}
+
+#ju {
+    margin-top: -10px;
+}
+
+#jadavpur {
+    margin-bottom: 50px;
+    color: blue;
+    font-size: 21px;
+}
+
+#front-bar {
+    margin-left: 400px;
+}
+
+#tagline {
+    font-size: small;
+    margin-left: 40px;
+    margin-bottom: 50px;
+    color: blue;
+}
+
+#login {
+    color: #4d4d4d;
+    margin-top: -10px;
+}
+
+#register {
+    color: #4d4d4d;
+    margin-top: -10px;
+}
+
+#half {
+    width: 50%;
+    margin-top: -37px;
+    height: 650px;
+}
+
+.front-page-image {
+    height: 620px;
+}
+
+
+/*
+.logo-adjust {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+*/
