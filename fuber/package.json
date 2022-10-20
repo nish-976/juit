@@ -14,7 +14,7 @@
     "leaflet": "^1.6.0",
     "leaflet-routing-machine": "^3.2.12",
     "leaflet-search": "^2.9.8",
-    "mongoose": "^4.4.20",
+    "mongoose": "^4.13.21",
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0"
   },
